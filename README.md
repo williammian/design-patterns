@@ -46,6 +46,8 @@ Adicionar funcionalidade a um objeto dinamicamente.
 Prover uma interface simplificada para a utilização de várias interfaces de um subsistema.
 ### Front Controller (não GoF)
 Centralizar todas as requisições a uma aplicação Web.
+### Flyweight
+Compartilhar, de forma eficiente, objetos que são usados em grande quantidade.
 ### ...
 ...
 
