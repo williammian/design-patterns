@@ -44,6 +44,8 @@ distinção.
 Adicionar funcionalidade a um objeto dinamicamente.
 ### Facade
 Prover uma interface simplificada para a utilização de várias interfaces de um subsistema.
+### Front Controller (não GoF)
+Centralizar todas as requisições a uma aplicaçãoWeb.
 ### ...
 ...
 
