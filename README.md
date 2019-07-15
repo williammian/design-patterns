@@ -48,8 +48,8 @@ Prover uma interface simplificada para a utilização de várias interfaces de u
 Centralizar todas as requisições a uma aplicação Web.
 ### Flyweight
 Compartilhar, de forma eficiente, objetos que são usados em grande quantidade.
-### ...
-...
+### Proxy
+Controlar as chamadas a um objeto através de outro objeto de mesma interface.
 
 ## Padrões Comportamentais
 ### ...
