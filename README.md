@@ -52,5 +52,11 @@ Compartilhar, de forma eficiente, objetos que são usados em grande quantidade.
 Controlar as chamadas a um objeto através de outro objeto de mesma interface.
 
 ## Padrões Comportamentais
+Os padrões comportamentais atuam sobre como responsabilidades são atribuídas as entidades, ou seja,
+qual o comportamento das entidades. Estes padrões facilitam a comunicação entre os objetos,
+distribuindo as responsabilidades e definindo a comunicação interna. 
+### Command
+Controlar as chamadas a um determinado componente, modelando cada requisição
+como um objeto. Permitir que as operações possam ser desfeitas, enfileiradas ou registradas.
 ### ...
 ...
