@@ -58,5 +58,8 @@ distribuindo as responsabilidades e definindo a comunicação interna.
 ### Command
 Controlar as chamadas a um determinado componente, modelando cada requisição
 como um objeto. Permitir que as operações possam ser desfeitas, enfileiradas ou registradas.
+### Iterator
+Fornecer um modo eficiente para percorrer sequencialmente os elementos de uma coleção,
+sem que a estrutura interna da coleção seja exposta.
 ### ...
 ...
