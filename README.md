@@ -64,5 +64,8 @@ sem que a estrutura interna da coleção seja exposta.
 ### Mediator
 Diminuir a quantidade de “ligações” entre objetos introduzindo um mediador, através
 do qual toda comunicação entre os objetos será realizada.
+### Observer
+Definir um mecanismo eficiente para reagir às alterações realizadas em determinados
+objetos.
 ### ...
 ...
