@@ -70,5 +70,8 @@ objetos.
 ### State
 Alterar o comportamento de um determinado objeto de acordo com o estado no qual ele
 se encontra.
+### Strategy
+Permitir de maneira simples a variação dos algoritmos utilizados na resolução de um
+determinado problema.
 ### ...
 ...
