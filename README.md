@@ -67,5 +67,8 @@ do qual toda comunicação entre os objetos será realizada.
 ### Observer
 Definir um mecanismo eficiente para reagir às alterações realizadas em determinados
 objetos.
+### State
+Alterar o comportamento de um determinado objeto de acordo com o estado no qual ele
+se encontra.
 ### ...
 ...
