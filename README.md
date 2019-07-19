@@ -73,5 +73,8 @@ se encontra.
 ### Strategy
 Permitir de maneira simples a variação dos algoritmos utilizados na resolução de um
 determinado problema.
+### Template Method
+Definir a ordem na qual determinados passos devem ser realizados na resolução de um
+problema e permitir que esses passos possam ser realizados de formas diferentes de acordo com a situação.
 ### ...
 ...
